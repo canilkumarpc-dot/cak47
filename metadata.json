@@ -1,0 +1,6 @@
+{
+  "name": "Vaani — Multilingual AI Call Assistant",
+  "description": "Intelligent Android-ready AI call assistant that screens and answers incoming calls in English, Hindi, and Telugu with live transcripts, instant translation, smart whispers, and spam defense.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
